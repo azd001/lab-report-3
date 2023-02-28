@@ -4,6 +4,6 @@ The first command was -delete. This command allows you to delete files that are 
 
 If we were to run find "test.txt" -delete, the file "test.txt" will be deleted from the directory. 
 
-![image](befre_delete)
+![image](befre_delete.png)
 
-![Image](after_delete)
+![Image](after_delete.png)
